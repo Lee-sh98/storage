@@ -3,7 +3,7 @@
 //문자열내 소문자를 대문자로 바꾸기
 int main(){
 	char *str=malloc(50*sizeof(char));
-	scanf("%s",str);
+	scanf("%s",str); 
 	
 	int i=0;
 	while(str[i]){
