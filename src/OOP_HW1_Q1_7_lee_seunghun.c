@@ -9,7 +9,7 @@ int main(){
 	while(str[i]){
 		if(97<=(int)str[i]&&(int)str[i]<=122){
 			str[i]=(int)str[i]-32;
-	
+		}
 		i++;
 	}
 	printf("%s",str);
