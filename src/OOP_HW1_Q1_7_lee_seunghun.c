@@ -6,7 +6,7 @@ int main(){
 	scanf("%s",str); 
 	
 	int i=0;
-	while(str[i]){
+	while(str[i]!='\n'){
 		if(97<=(int)str[i]&&(int)str[i]<=122){
 			str[i]=(int)str[i]-32;
 		}

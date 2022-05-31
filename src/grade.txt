@@ -1,0 +1,10 @@
+Alex: B
+Mark: D
+Brittany: B
+Cathy: B
+Daniel: B
+Irene: A
+Jennifer: A
+Justin: B
+Bart: F
+Sarah: C
